@@ -9,7 +9,7 @@
 	<script>
 	  	window.sdkAsyncInit = function() {
 	    	// Instantiate the SDK
-			var res = new EDMUNDSAPI('you api key');
+			var res = new EDMUNDSAPI('82a7e4f6eb0fc0a3fb271131738dbe8d098db40b');
 			// Optional parameters
 			var options = {
 				"year": 2014
